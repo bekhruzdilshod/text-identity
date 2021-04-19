@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-**text-matching** - __script, that helps you to compare two text files and find a percent difference between them__
+**text-matching** - script, that helps you to compare two text files and find a percent difference between them
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 1. Install script and copy paths to the two selected files you want to compare    
 2. Run script via your OS terminal:   
     ```shell
-    python identity.py -first 1.txt -second 2.txt
+    python identity.py -first <FIRST_FILE_PATH> -second <SECOND_FILE_PATH>
    ```
 3. Get result 
     ```shell
