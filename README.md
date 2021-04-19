@@ -20,16 +20,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/bekhruzdilshod/text-matching/graphs/contributors]
+[![Forks][forks-shield]][https://github.com/bekhruzdilshod/text-matching/network/members]
+[![Stargazers][stars-shield]][https://github.com/bekhruzdilshod/text-matching/stargazers]
+[![Issues][issues-shield]][https://github.com/bekhruzdilshod/text-matching/issues]
+[![MIT License][license-shield]][https://github.com/bekhruzdilshod/text-matching/blob/main/LICENSE]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-**text-identity** - __script, that helps you to compare two text files and find a percent difference between them__
+**text-matching** - __script, that helps you to compare two text files and find a percent difference between them__
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -40,7 +39,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bekhruzdilshod/text-identity.git
+   git clone https://github.com/bekhruzdilshod/text-matching.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -67,18 +66,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Bekhruz Iskandarzoda - [iskandarzoda@outlook.com](mailto://iskandarzoda@outlook.com) - email
 
 Project Link: [https://github.com/bekhruzdilshod/text-identity](https://github.com/bekhruzdilshod/text-identity)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
