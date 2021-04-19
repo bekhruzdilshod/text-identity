@@ -20,11 +20,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/bekhruzdilshod/text-matching/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/bekhruzdilshod/text-matching/network/members]
-[![Stargazers][stars-shield]][https://github.com/bekhruzdilshod/text-matching/stargazers]
-[![Issues][issues-shield]][https://github.com/bekhruzdilshod/text-matching/issues]
-[![MIT License][license-shield]][https://github.com/bekhruzdilshod/text-matching/blob/main/LICENSE]
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
